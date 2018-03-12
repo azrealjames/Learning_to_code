@@ -1,2 +1,2 @@
 # Learning_to_code
-Examples of coding in HTML, CSS, JavaScript, etc.
+JavaScript 30 Day Challenge.
